@@ -1,0 +1,39 @@
+# VS Code
+compile_commands.json
+.clangd
+.cache/
+.vscode/
+
+# macOS
+.DS_Store
+
+# JetBrains
+.idea
+*/cmake-build-*/
+
+# Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Build
+build/
+*.so
+*.egg-info/
+dist/
+docs/_site/
+docs/.jekyll-cache/
+docs/.sass-cache/
+docs/.bundle/
+docs/vendor/
+
+# Logging
+*.log
+multi_node_logs/
+hcu_benchmark_logs/
+*_traces/
+ultra_ep_traces/

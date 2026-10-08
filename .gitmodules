@@ -1,0 +1,4 @@
+[submodule "third-party/rocshmem"]
+	path = third-party/rocshmem
+	url = https://github.com/HYGON-AI/rocSHMEM-das.git
+	branch = develop
